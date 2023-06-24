@@ -1,0 +1,23 @@
+h1 {
+  color: indianred;
+  text-align: center;
+}
+p {
+  color: green;
+}
+h1 {
+  color: violet;
+  text-align: right;
+}
+.header {
+  color: chocolate;
+  text-align: center;
+  font-size: 40px;
+}
+.main-header {
+  color: red;
+}
+.secondary-header {
+  color: green;
+}
+
